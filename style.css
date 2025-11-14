@@ -1,4 +1,13 @@
-body { 
-    background-color: rgb(2, 25, 172);
+body {
+background-color: #D9D9D9
+;} 
+.cabeçalho {
+    margin-bottom: auto;
+    background-color: #383D58;
+}
 
+.Sobre {
+    margin-bottom: auto;
+   background-image: linear-gradient(to bottom, #383D58, #4EBFE9);
+   
 }
